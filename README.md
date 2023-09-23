@@ -60,9 +60,7 @@ Heraclitus [Fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
 
 ### Hipassus of Metapontum (c. 530 – c. 450 BC)
 1. Mystic Discourse, On the Mysteries
-
-
-### Lysis of Taras
+### Lysis of Taras (fl. c. 5th-century BC)
 1. ? Some work falsy attributed to Pythagoras
 
 ### Philolaus (c. 470 BC – c. 385 BC)
