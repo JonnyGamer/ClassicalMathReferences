@@ -25,7 +25,7 @@
 
 ---
 
-Xenophanes [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
+Xenophanes of Colophon (c. 570 – c. 478 BC) [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
 1. The Founding of Colophon
 2. The Colonization of Elea in Italy
 3. Elegies (can't find name of this as a resource)
@@ -33,6 +33,31 @@ Xenophanes [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
 
 Heraclitus [Fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
 1. On Nature
+
+---
+
+### Pythagoras of Samos
+1. On Nature
+2. ??? Poems he attributed to Orpheus
+
+### Hipassus of Metapontum (c. 530 – c. 450 BC)
+1. Mystic Discourse
+
+### Philolaus (c. 470 BC – c. 385 BC)
+1. On Nature
+2. ??? The Three Famous Unnamed Books, attributed to Pythagoras, purchased by Plato
+3. ??? On the Cosmos (possible repeat 1)
+4. ??? Bacchae (possible repeat of 1)
+
+### Eurytus of Croton or Tarentum (fl. 400 BC)
+1. ??? Unknown Work (fragment in Stobaeus)
+
+### Archytas of Tarentum (435/410–360/350 BC)
+1. On Harmony
+2. Archytas wrote a number of works in philosophy and the exact sciences but none of them survived except in fragments.
+?. Mechanical Problems, pseudo-Archimedean
+
+---
 
 Parmenides [Fragments](https://en.wikisource.org/wiki/Fragments_of_Parmenides)
 1. On Nature
@@ -57,11 +82,6 @@ Diogenes of Apollonia
 Melissus
 1. On Nature, On Being
 
-Philolaus
-1. On Nature
-2. ??? The Three Famous Books
-3. ??? On the Cosmos (possible repeat 1)
-4. ??? Bacchae (possible repeat of 1)
 
 Leucippus
 1. On Mind (a single quotation exists)
