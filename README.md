@@ -3,8 +3,7 @@
 Thales
 1. On the Solstice
 2. On the Equinox
-3. On the Principles Book 1
-4. On the Principles Book 2
+3. On the Principles I, II
 
 Anaximander
 1. On Nature
