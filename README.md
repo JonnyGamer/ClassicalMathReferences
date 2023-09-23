@@ -40,14 +40,30 @@ Heraclitus [Fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
 
 ### Pythagoras of Samos
 1. On Nature
-2. ??? Poems he attributed to Orpheus
+2. On Statesmanship
+3. On Education
+4. On the Universe
+5. The Sacred Poem
+6. On the Soul
+7. On Piety
+8. Helothales
+9. Croton
+10. Kopidas, Liars
+11. ??? Poems he attributed to Orpheus, possibly 4-10
 
 ### Alcmaeon of Croton (fl. 5th century BC)
 1. On Nature
 2. He also wrote several other medical and philosophical works, of which nothing but the titles and a few fragments have been preserved by Stobaeus, Plutarch, and Galen.
 
+### Aston of Croton
+1. ? Many works attributed to Pythagoras
+
 ### Hipassus of Metapontum (c. 530 – c. 450 BC)
-1. Mystic Discourse
+1. Mystic Discourse, On the Mysteries
+
+
+### Lysis of Taras
+1. ? Some work falsy attributed to Pythagoras
 
 ### Philolaus (c. 470 BC – c. 385 BC)
 1. On Nature
