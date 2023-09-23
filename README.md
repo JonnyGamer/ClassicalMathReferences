@@ -15,6 +15,10 @@ Anaximander
 Anaximenes
 1. ??? Unknown Works
 
+Hecataeus of Miletus (c. 550 BC - c. 476 BC)
+1. Periodos ges I, II (World Survey, Journey Round the Earth) Περίοδος γῆς
+2. Genealogies Γενεαλογίαι, Histories Ἱστορία
+
 Xenophanes [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
 1. The Founding of Colophon
 2. The Colonization of Elea in Italy
