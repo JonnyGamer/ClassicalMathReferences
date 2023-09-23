@@ -11,15 +11,15 @@ Anaximander
 2. Map of the Earth, Rotation of the Earth 
 3. On the Fixed Stars
 4. The *Celestial* Sphere
-5. ??? Other Works
+5. ??? Other Unknown Works
 
 Anaximenes
-1. ??? Works
+1. ??? Unknown Works
 
 Xenophanes [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
 1. The Founding of Colophon
 2. The Colonization of Elea in Italy
-3. ??? Elegies
+3. Elegies (can't find name of this as a resource)
 4. Satires
 
 Heraclitus [Fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
@@ -29,7 +29,7 @@ Parmenides [Fragments](https://en.wikisource.org/wiki/Fragments_of_Parmenides)
 1. On Nature
 
 Zeno of Elea
-1. Unnamed Book containing paradoxes
+1. ??? Unnamed Work containing paradoxes
 
 Anaxagoras [Fragments](https://en.wikisource.org/wiki/Fragments_of_Anaxagoras)
-1. ??? Works
+1. ??? Unknown Works
