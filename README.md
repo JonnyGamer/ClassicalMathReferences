@@ -1,23 +1,29 @@
 # Ancient Greek Mathematical Philosophy Book List
 
-Thales
+---
+
+# Milesian School
+
+Thales of Miletus (626/623 – c. 548/545 BC))
 1. On the Solstice
 2. On the Equinox
 3. On the Principles I, II
 
-Anaximander
+Anaximander of Miletus (c. 610 – c. 546 BC)
 1. On Nature
 2. Map of the Earth, Rotation of the Earth 
 3. On the Fixed Stars
 4. The *Celestial* Sphere
 5. ??? Other Unknown Works
 
-Anaximenes
+Anaximenes of Miletus (c. 586/585 – c. 526/525 BC)
 1. ??? Unknown Works
 
 Hecataeus of Miletus (c. 550 BC - c. 476 BC)
 1. Periodos ges I, II (World Survey, Journey Round the Earth) Περίοδος γῆς
 2. Genealogies Γενεαλογίαι, Histories Ἱστορία
+
+---
 
 Xenophanes [Fragments](https://en.wikisource.org/wiki/Fragments_of_Xenophanes)
 1. The Founding of Colophon
