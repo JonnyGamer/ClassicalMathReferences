@@ -36,9 +36,15 @@ Heraclitus [Fragments](https://en.wikisource.org/wiki/Fragments_of_Heraclitus)
 
 ---
 
+# Pythagoreans
+
 ### Pythagoras of Samos
 1. On Nature
 2. ??? Poems he attributed to Orpheus
+
+### Alcmaeon of Croton (fl. 5th century BC)
+1. On Nature
+2. He also wrote several other medical and philosophical works, of which nothing but the titles and a few fragments have been preserved by Stobaeus, Plutarch, and Galen.
 
 ### Hipassus of Metapontum (c. 530 – c. 450 BC)
 1. Mystic Discourse
